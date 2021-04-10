@@ -1,2 +1,2 @@
 # ehisimade.github.io
-# This is an exaqmple of the google home page.
+This is an example of the google home page.
